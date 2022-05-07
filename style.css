@@ -1,0 +1,34 @@
+/* CSS file  for Better  Fucking Webiste
+------
+par Christophe Leray
+ */
+body{
+	margin: 40px auto;
+	max-width: 650px;
+	color: #444;
+	line-height: 1.8;
+	background-color: #EEEEEE;
+}
+
+p, blockquote  {
+	text-align: justify;
+	font-size: 18px;
+}
+
+h1{
+	font-size: 2em;
+}
+
+button{
+	display: block;
+	margin: 10px auto;
+	padding: 10px;
+	font-size: 1.3em
+}
+
+table, th, td {
+	padding: 5px;
+	font-size:25px;
+}
+
+
